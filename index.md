@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hello there!
+## Welcome to Pick A Pet!
 
 {{ site.welcome_text }}
 
